@@ -1,0 +1,16 @@
+{
+    "name": "monique/decorator",
+    "description": "decorator",
+    "autoload": {
+        "psr-4": {
+            "Monique\\Decorator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monique",
+            "email": "monique.porciuncula@agilize.com.br"
+        }
+    ],
+    "require": {}
+}
